@@ -1,0 +1,168 @@
+.top-container{
+background-color: #E4F9F5;
+padding-top: 100px;
+}
+
+body{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  position: relative;
+  /*line-height: 2;*/
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+.middle-container{
+  margin: 100px 0px;
+}
+
+h1{
+margin: 50px auto 0 auto;
+font-size: 5.625rem;
+color: #66BFBF;
+font-family: 'Sacramento', cursive;
+}
+
+p{
+    line-height: 2;
+}
+
+ul{
+  line-height: 2;
+}
+
+h2{
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.BI{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  top:40px;
+  right:300px;
+}
+
+.blottom-cloud{
+  position: absolute;
+  left:250px;
+  top:200px;
+}
+
+
+.intro{
+  width: 30%;
+  margin:auto;
+}
+
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.skills-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  color: #40514E;
+  border-radius: 10px;
+}
+
+.tools-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+/*
+.skill-description-1{
+  clear: left;
+}
+
+.skill-description-2{
+  clear:right;
+}
+*/
+
+.contact-me{
+  margin-bottom: 100px;
+}
+
+.btn {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #0E7070;
+   border: solid #337FED 0;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+.bottom-container{
+  margin:0;
+  padding: 50px 0px 20px;
+  background-color: #66BFBF
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #11999E;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+
+.copyright-text{
+  color:#EAF6F6;
+  font-size: .75rem;
+  padding:20px 0;
+
+}
+
+
+.Rob-img{
+  width: 15%;
+}
